@@ -1,0 +1,11 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "This is a food ordering app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Garvita",
+  "license": "ISC"
+}
